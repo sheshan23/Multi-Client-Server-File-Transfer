@@ -1,5 +1,5 @@
 # Multi-Client-Server-File-Transfer
-It is a java application in which multiple client can access the server concurrently and can upload or download files from the server
+It is a java application in which multiple clients can access the server concurrently and can upload or download files from the server
 <br/>
 <br/>
 #<strong>Requirements</strong><br/>
